@@ -2,3 +2,4 @@ import math
 x = int(input("Enter the number: "))
 y = math.sin(x)+math.cos(x)
 print("Value y=", y)
+print("Hello")
